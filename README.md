@@ -16,6 +16,9 @@ In current study we address following questions:
 To see the final code and analysis use this link:
 https://github.com/shruti12912/titanic_survivor/blob/master/Titanic_survivor_project_report.ipynb
 
+To see the report in pdf format use this link:
+https://github.com/shruti12912/titanic_survivor/blob/master/Titanic_survivor_project_report.pdf
+
 ## Conclusion
 
 The current study and the conclusions below are based on this sample data and can be very different from the full titanic_survivor data.
